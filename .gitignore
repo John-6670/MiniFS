@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+filesys.db
+minifs
+build/
+bin/
